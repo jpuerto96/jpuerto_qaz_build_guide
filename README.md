@@ -20,6 +20,7 @@ Important notes to keep in mind:
 | Standoffs | 4
 | M2 Screws | 8
 | M2 Washers | 4
+| MX Compatible Keycaps | 35 or 36
 
 ### Optional
 | Material | Qty |
@@ -27,6 +28,8 @@ Important notes to keep in mind:
 | MillMax Sockets | 20
 | MillMax Pins | 20
 | Painter's Tape | 1
+
+![Materials](static/IMG_1362.HEIC)
 
 ## Preparations
 ### Diodes
