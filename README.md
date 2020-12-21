@@ -29,13 +29,17 @@ Important notes to keep in mind:
 | MillMax Pins | 20
 | Painter's Tape | 1
 
-![Materials](static/IMG_1362.HEIC)
+![Materials](static/IMG_1362.jpg)
 
 ## Preparations
 ### Diodes
 If you are using through-hole diodes, you will want to clip the diodes from the roll that they're on. You can do so using flush-cutters (highly recommended) or any cutting tool.
 
+![Clipped Diodes](static/IMG_1363.jpg)
+
 Once you have clipped the diodes, bend the legs at a 90 degree angle.
+
+![Clipped Diodes](static/IMG_1366.jpg)
 
 ### (Optional) MillMax Sockets
 Although you do not need to socket your ProMicro, it is highly recommended to do so. This will allow you to avoid having to desolder the entire MCU if the port breaks off. Typically, these sockets come in rows of 64. As such, you will want to clip two sections off - one 12 socket row and one 8 socket row.
@@ -48,6 +52,8 @@ Although this guide uses through-hole diodes, the steps here are the same for SM
 
 This is, probably, one of the most common issues when building a keyboard. In the following image, you can see the appropriate orientation of the diode.
 
+![Diode Orientation](static/IMG_1364.jpg)
+
 As can be seen above, the black bar on the diode **must** be pointing towards the **square** pad. Please be careful when placing the diodes and make sure that you are following this rule for every diode. 
 
 **The square pad is not always to the right of the diode.**
@@ -55,6 +61,8 @@ As can be seen above, the black bar on the diode **must** be pointing towards th
 For SMD diodes, you can solder the diode directly to the diode footprint.
 
 For through-hole diodes, feed the legs through the holes to the left and the right of the diode footprint.  As can be seen in the following photo, you should bend the legs of the through-hole diodes so that they are held in place while you place more diodes.
+
+![Row of Diodes](static/IMG_1367.jpg)
 
 Once you have placed a row (or more) of diodes, solder the legs of said diodes diodes on the front-side of the PCB.
 
